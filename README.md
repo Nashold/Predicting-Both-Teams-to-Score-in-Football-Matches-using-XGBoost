@@ -7,6 +7,5 @@ This guide will walk you through a complete end-to-end process for predicting wh
 
 
 
-Conclusion
 
 This guide covered data preprocessing, feature selection, model training, hyperparameter tuning, and making predictions for future football matches using an XGBoost classifier. You can now apply similar techniques to different datasets or further improve the model with more features and advanced tuning.
